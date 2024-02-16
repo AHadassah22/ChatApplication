@@ -39,8 +39,6 @@ Install dependencies: npm install
 Create a .env file in the root directory.
 
 Define the following environment variables:
-makefile
-Copy code
 PORT=3000
 MONGODB_URI=<your_MongoDB_URI>
 SECRET_KEY=<your_secret_key>
